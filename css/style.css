@@ -10,7 +10,7 @@
 }
 .promo {
     height: 800px;
-    background: url("img/baner.jpg") center center / cover no-repeat;
+    background: url("../img/baner.jpeg") center center / cover no-repeat;
     padding: 29px 0 47px 0;
 }
 .logo .logo__img {
